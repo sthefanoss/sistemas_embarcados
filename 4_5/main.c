@@ -15,7 +15,7 @@ TypeData types[] = {
     typeData(long int),
     typeData(float),
     typeData(double),
-    typeData(TypeData), //o poder da abstracao
+    typeData(TypeData),
 };
 
 int typesSize = sizeof(types) / sizeof(TypeData);
